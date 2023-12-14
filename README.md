@@ -6,13 +6,13 @@ This is a series of 6 mini-projects I built as part of a course by Brad Traversy
 
 There are 6 bigger projects from the same course whose repositories can be found [here](https://github.com/DakouriKobri/tailwind-from-scratch-course-bigger-projects).
 
-| #   | Project Title   |
-| :-- | :-------------- |
-| 1   | Email Subscribe |
-| 2   | Pricing Grid    |
-| 3   | Image Gallery   |
-| 4   | Product Modal   |
-| 5   | Login Modal     |
+| #   | Project Title                                                                                                           |
+| :-- | :---------------------------------------------------------------------------------------------------------------------- |
+| 1   | [Email Subscribe](https://github.com/DakouriKobri/tailwind-from-scratch-course-mini-projects/tree/main/email-subscribe) |
+| 2   | [Pricing Grid](https://github.com/DakouriKobri/tailwind-from-scratch-course-mini-projects/tree/main/pricing-grid)       |
+| 3   | [Image Gallery](https://github.com/DakouriKobri/tailwind-from-scratch-course-mini-projects/tree/main/image-gallery)     |
+| 4   | [Product Modal](https://github.com/DakouriKobri/tailwind-from-scratch-course-mini-projects/tree/main/product-modal)     |
+| 5   | [Login Modal](https://github.com/DakouriKobri/tailwind-from-scratch-course-mini-projects/tree/main/login-modal)         |
 
 ## Installation
 
